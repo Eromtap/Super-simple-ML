@@ -21,3 +21,9 @@ These are conviniently called traingin.csv and testing.csv. Then I included a fi
 Lastly, I am open to any questions / comments. 
 
 Enjoy!
+
+
+PS. Please excuse grammer and spelling mistakes. It's 1:34 AM and I'm tired. I may fix them later.
+
+
+PPS. No, I wont...Let's be honest.
