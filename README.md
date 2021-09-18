@@ -23,7 +23,7 @@ Lastly, I am open to any questions / comments.
 
 Enjoy!
 
-* The iris dataset is explained here, credit Wikipedia  https://en.wikipedia.org/wiki/Iris_flower_data_set
+* The iris dataset is explained here, credit Wikipedia  https://en.wikipedia.org/wiki/Iris_flower_data_set.  But in short, it's a set of 150 iris flowers of 3 different sub species. There are 50 examples of each subspecies with thier corresponding physical measurements. The object is to randomize the samples and see how accurately a machine can predict which subspecies a flower is based soley on these measurements and how often it predicts correctly. It's harder than it sounds, these subspecies are very close to one another in size and there is a significant amount of overlap in the measurements. This is a very common dataset for ML because it is small and its characteristics are well understood. It's basically the one everybody first learn on which is one of the reasons I used it here.
 
 PS. Please excuse grammer and spelling mistakes. It's 1:34 AM and I'm tired. I may fix them later.
 
