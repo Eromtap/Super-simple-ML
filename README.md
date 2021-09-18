@@ -4,7 +4,7 @@ I made a machine learning thing to help those who may be struggling.
 OK, so heres the deal. I've been working with ML for awhile. Ive used Numpy, Pandas, Scikit learn, tensor etc and something occured to me....
 I've never actually written a machine learing algorithm from scratch. Just for fun, I decided to give it a go.
 In doing so, i wanted to create something simple that anyone struggling to understand the concepts could grasp and hopefully help them along.
-In this project, there is no calculus, no back propogation, no linear algebra. In fact, the only python libraries used are random and csv.
+In this project, there is no calculus, no back propogation, no linear algebra. In fact, the only python libraries used are random and csv, not even pandas shows up.
 The only math is some simple addition and multiplication.
 I also wanted to see if I could create something in which the inputs acted as both inputs and weighted nodes and make it work.
 No hidden layers whatsoever and to my surprise, it actually works!
