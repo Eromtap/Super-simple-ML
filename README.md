@@ -15,4 +15,9 @@ While this is a simple project, I found that I quite like some of the things I s
 I left all my notes and frustrated comments in the code. I hope these will serve to both enlighten and entertain. They clearly show my thought processes.
 
 Included are 5 files. 3 datasets, one is the standard Iris set called Iris.csv, then I have included 2 csv files that are just that set plit into training and test sets.
-These are conviniently called traingin.csv and testing.csv. Then I included a file called split-data.csv, use this if you want to split the Iris set yourself into training and testing
+These are conviniently called traingin.csv and testing.csv. Then I included a file called split-data.csv, use this if you want to split the Iris set yourself into training and testing. Last is where the magic happens, neural-net.py.
+
+
+Lastly, I am open to any questions / comments. 
+
+Enjoy!
