@@ -5,7 +5,7 @@ OK, so heres the deal. I've been working with ML for awhile. Ive used Numpy, Pan
 I've never actually written a machine learing algorithm from scratch. Just for fun, I decided to give it a go.
 In doing so, i wanted to create something simple that anyone struggling to understand the concepts could grasp and hopefully help them along.
 In this project, there is no calculus, no back propogation, no linear algebra. In fact, the only python libraries used are random and csv, not even pandas shows up.
-The only math is some simple addition and multiplication.
+The only math is some simple addition and multiplication. I purposly avoided arrays as well, and instead opted to keep the data in the csv files and utilize it from there. 
 I also wanted to see if I could create something in which the inputs acted as both inputs and weighted nodes and make it work.
 No hidden layers whatsoever and to my surprise, it actually works!
 I dont know if one could really call this a neural network, but thats what I called it and it's staying lol. It is undoubtedly machine learning however.
