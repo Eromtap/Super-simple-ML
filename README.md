@@ -14,7 +14,7 @@ For anyone wanting to get a handle on some of the basic principles of ML and doi
 While this is a simple project, I found that I quite like some of the things I stumbled on and am going to explore them further.
 I left all my notes and frustrated comments in the code. I hope these will serve to both enlighten and entertain. They clearly show my thought processes.
 
-Included are 5 files. 3 datasets, one is the standard Iris set called Iris.csv, then I have included 2 csv files that are just that set split into training and test sets.
+Included are 5 files. 3 datasets, one is the standard Iris* set called Iris.csv, then I have included 2 csv files that are just that set split into training and test sets.
 These are conviniently called traingin.csv and testing.csv. Then I included a file called split-data.py, use this if you want to split the Iris set yourself into training and testing. Last is where the magic happens, neural-net.py.
 
 Oh, I realized I use the term weights in the comments a lot. For anyone just learning, weights are just the amount of emphasis we put on each node value. So if the machine decides that a certain input leads to better predictions than another, it will weight that input (or node, again in this project they are one in the same) more. Now this program chooses weights completely at random, but the same principle applies, it just doesnt back propogate to find a nice set of weights, it stumbles into them. You may hear the term bias thrown around. There are no biases in this project, didn't need any.
@@ -23,6 +23,7 @@ Lastly, I am open to any questions / comments.
 
 Enjoy!
 
+* The iris dataset is explained here, credit Wikipedia  https://en.wikipedia.org/wiki/Iris_flower_data_set
 
 PS. Please excuse grammer and spelling mistakes. It's 1:34 AM and I'm tired. I may fix them later.
 
