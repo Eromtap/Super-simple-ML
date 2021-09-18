@@ -9,7 +9,7 @@ The only math is some simple addition and multiplication.
 I also wanted to see if I could create something in which the inputs acted as both inputs and weighted nodes and make it work.
 No hidden layers whatsoever and to my surprise, it actually works!
 I dont know if one could really call this a neural network, but thats what I called it and it's staying lol. It is undoubtedly machine learning however.
-I was surprised at how simple I could make this project and have it actually work. It's not elegant, it's not pretty, but dammit it works.
+I was surprised at how simple I could make this project and have it actually work. Hell, I think there are more lines of comment than code! It's not elegant, it's not pretty, but dammit it works.
 For anyone wanting to get a handle on some of the basic principles of ML and doing so in the absolute simplest way imaginable, I encourage you to check this out.
 While this is a simple project, I found that I quite like some of the things I stumbled on and am going to explore them further.
 I left all my notes and frustrated comments in the code. I hope these will serve to both enlighten and entertain. They clearly show my thought processes.
